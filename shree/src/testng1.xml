@@ -1,0 +1,15 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="shtee TestNG ">
+  <test name="Different test Engine features">
+  
+     <classes>
+         <class name="ShreeTestNG.ExceptionTimeOutTest" />
+         <class name="ShreeTestNG.GoogleTest" />
+         <class name="ShreeTestNG.GoogleTitleTest" />
+         <class name="ShreeTestNG.TestNGBasics" />
+     </classes>
+  
+  </test>
+
+</suite>
